@@ -3,6 +3,7 @@
 ## Informações Aluno
 
 - Nome: Natan Nunes Del Boni - RA: 1999528
+- Nome: Cristiano Moreira - RA: 1989094
 
 ## Simulador de Carrinho de Compras em PHP
 Este projeto é um simulador de carrinho de compras desenvolvido em PHP puro, com o objetivo de demonstrar a aplicação de princípios de Design Patterns & Clean Code. Ele representa um fluxo básico de e-commerce, gerenciando produtos e um carrinho de compras sem a necessidade de banco de dados ou frameworks. Todos os dados são manipulados em arrays na memória.
